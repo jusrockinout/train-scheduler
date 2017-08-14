@@ -32,4 +32,3 @@ In this assignment, you'll create a train schedule application that incorporates
 * As a final challenge, make it so that only users who log into the site with their Google or GitHub accounts can use your site. You'll need to read up on Firebase authentication for this bonus exercise.
 
 
-
